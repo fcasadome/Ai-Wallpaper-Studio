@@ -1,0 +1,5 @@
+{
+  "name": "AI Wallpaper Studio",
+  "description": "An application for generating and editing custom phone wallpapers using text prompts with Gemini AI. Create unique vertical aspect ratio images and refine them with powerful editing commands.",
+  "requestFramePermissions": []
+}
